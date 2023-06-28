@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BunnyBunnie
-- 👀 I’m interested in Music and Gaming
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Creating Music, Gaming & 3D Modeling
+- 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on more in the furture. 
 - 📫 How to reach me ...
 
