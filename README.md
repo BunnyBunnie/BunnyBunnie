@@ -26,7 +26,12 @@ My primary toolset includes a range of languages for building and problem-solvin
 3.  **Contribute** to an open-source project.
 
 ---
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/janessathomas/" target="_blank">
+    <img src="https://i.postimg.cc/jjZyHrf7/Your-health-is-our-priority.png" alt="Connect with me on LinkedIn" width="800">
+  </a>
+  <p>Let's connect on LinkedIn!</p>
+</div>
 <!---
 BunnyBunnie/BunnyBunnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
