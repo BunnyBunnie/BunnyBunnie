@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @BunnyBunnie
-- 👀 I’m interested in Creating Music, Gaming & 3D Modeling
-- 🌱 I’m currently learning Python & JavaScript
-- 💞️ I’m looking to collaborate on more in the furture. 
-- 📫 How to reach me ...
+# Hi, I'm Janessa Thomas 👋
+
+### Software Developer | Computer Science & Mathematics Student
+
+I'm a software developer preparing to study at **DePaul University**. I am passionate about building practical applications to strengthen my coding skills and explore the intersection of technology and mathematics.
+
+---
+
+## 💻 Tech Stack
+
+My primary toolset includes a range of languages for building and problem-solving:
+
+* **Python:** For scripting, data analysis, and backend development.
+* **Java & C++:** For building robust applications and understanding core OOP principles.
+* **JavaScript, HTML & CSS:** For creating dynamic and responsive web interfaces.
+* **PHP:** For server-side web development.
+
+> I am currently focused on creating small projects to deepen my understanding of these technologies.
+
+---
+
+## 🌱 My Goals
+
+1.  **Expand my knowledge** of frameworks like React and Django.
+2.  **Explore** the fields of machine learning and algorithm optimization.
+3.  **Contribute** to an open-source project.
+
+---
 
 <!---
 BunnyBunnie/BunnyBunnie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
