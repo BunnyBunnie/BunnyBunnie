@@ -10,10 +10,15 @@ I'm a software developer preparing to study at **DePaul University**. I am passi
 
 My primary toolset includes a range of languages for building and problem-solving:
 
-* **Python:** For scripting, data analysis, and backend development.
-* **Java & C++:** For building robust applications and understanding core OOP principles.
-* **JavaScript, HTML & CSS:** For creating dynamic and responsive web interfaces.
-* **PHP:** For server-side web development.
+Python: For scripting, data analysis, and backend development.
+
+Java & C++: For building robust applications and understanding core OOP principles.
+
+JavaScript, HTML & CSS: For creating dynamic and responsive web interfaces.
+
+Node.js: For building scalable, event-driven server-side applications using JavaScript.
+
+PHP: For server-side web development.
 
 > I am currently focused on creating small projects to deepen my understanding of these technologies.
 
