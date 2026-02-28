@@ -2,7 +2,7 @@
 
 ### Software Developer | DePaul University Bachelor of Science in Physics | Software Engineering Student
 
-I'm a software developer preparing to study at **DePaul University**. I am passionate about building practical applications to strengthen my coding skills and explore the intersection of technology and mathematics.
+I study at **DePaul University**. I am passionate about building practical applications to strengthen my coding skills and explore the intersection of technology and mathematics.
 
 ---
 
